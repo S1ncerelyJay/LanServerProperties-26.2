@@ -1,0 +1,21 @@
+{
+  "lanserverproperties.options.online_mode": "在线模式",
+  "lanserverproperties.options.online_mode.on": "正版验证",
+  "lanserverproperties.options.online_mode.on.message": "只允许使用微软/Mojang帐户登录的玩家加入本服务器.",
+  "lanserverproperties.options.online_mode.off.vanilla": "纯离线模式",
+  "lanserverproperties.options.online_mode.off.vanilla.message": "禁用在线模式, 允许离线非正版玩家加入.",
+  "lanserverproperties.options.online_mode.off.fixed": "离线+UUID修复",
+  "lanserverproperties.options.online_mode.off.fixed.message": "允许所有人加入, 同时为正版用户保留正版UUID与皮肤, 防止存档数据丢失.",
+  "lanserverproperties.options.preference_enabled": "自动读取已存配置",
+  "lanserverproperties.options.preference_enabled.message": "打开本界面时自动读取保存的默认联机配置.",
+  "lanserverproperties.button.lan_server_options": "局域网服务器配置",
+  "lanserverproperties.button.preference_load": "读取配置",
+  "lanserverproperties.button.preference_save": "保存默认",
+  "lanserverproperties.button.preference_saved": "已保存配置!",
+  "lanserverproperties.button.copy_ip": "本机IP: %s",
+  "lanserverproperties.button.ip_copied": "已复制到剪贴板: %s",
+  "lanserverproperties.gui.pvp_allowed": "允许PvP",
+  "lanserverproperties.gui.max_player": "最大玩家数:",
+  "lanserverproperties.gui.always_offline": "强制离线模式名单",
+  "lanserverproperties.gui.always_offline.message": "以空格分隔, 在'离线+UUID修复'模式中强制使用离线UUID."
+}

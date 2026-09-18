@@ -1,0 +1,18 @@
+﻿# Build outputs
+build/
+bin/
+dist/
+*.class
+*.jar
+!release/*.jar
+
+# IDE & OS files
+.gradle/
+.idea/
+*.iml
+.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini
+*.bak
+*.tmp

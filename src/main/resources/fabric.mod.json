@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "lanserverproperties",
+  "version": "1.14.0",
+
+  "name": "Lan Server Properties",
+  "description": "Enhances the Minecraft 26.2 multiplayer/LAN options: customizable port, offline mode (allow unauthenticated players), PvP toggle, max players, and UUID fixing.",
+  "authors": [
+    "Rikka0w0"
+  ],
+  "contact": {
+    "homepage": "https://www.curseforge.com/minecraft/mc-mods/lan-server-properties/",
+    "sources": "https://github.com/rikka0w0/LanServerProperties/"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "lsp_logo.png",
+
+  "environment": "*",
+  "mixins": [
+    "lsp.mixins.json"
+  ],
+
+  "depends": {
+    "minecraft": ">=26.2",
+    "fabricloader": ">=0.19.0"
+  }
+}

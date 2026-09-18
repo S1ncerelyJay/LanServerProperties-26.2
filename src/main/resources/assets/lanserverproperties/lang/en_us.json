@@ -1,0 +1,21 @@
+{
+  "lanserverproperties.options.online_mode": "Online Mode",
+  "lanserverproperties.options.online_mode.on": "Online (Auth)",
+  "lanserverproperties.options.online_mode.on.message": "Only allows players authenticated with Microsoft/Mojang accounts.",
+  "lanserverproperties.options.online_mode.off.vanilla": "Offline Only",
+  "lanserverproperties.options.online_mode.off.vanilla.message": "Disables authentication, allowing unauthenticated players to join.",
+  "lanserverproperties.options.online_mode.off.fixed": "Offline + Fix UUID",
+  "lanserverproperties.options.online_mode.off.fixed.message": "Allows everyone to join while preserving official UUIDs and skins for authenticated players.",
+  "lanserverproperties.options.preference_enabled": "Auto Load Defaults",
+  "lanserverproperties.options.preference_enabled.message": "Automatically loads saved preferences when opening this screen.",
+  "lanserverproperties.button.lan_server_options": "LAN Server Options",
+  "lanserverproperties.button.preference_load": "Load Defaults",
+  "lanserverproperties.button.preference_save": "Save Defaults",
+  "lanserverproperties.button.preference_saved": "Saved!",
+  "lanserverproperties.button.copy_ip": "LAN IP: %s",
+  "lanserverproperties.button.ip_copied": "Copied IP to clipboard: %s",
+  "lanserverproperties.gui.pvp_allowed": "Allow PvP",
+  "lanserverproperties.gui.max_player": "Max Players:",
+  "lanserverproperties.gui.always_offline": "Force Offline Players",
+  "lanserverproperties.gui.always_offline.message": "Space-separated list of player names to treat as offline."
+}
