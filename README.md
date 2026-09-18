@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 # 🌐 Lan Server Properties (Minecraft 26.2 Fabric)
 
@@ -11,6 +11,17 @@
 
 [English](#english) | [中文说明](#中文说明)
 
+</div>
+
+---
+
+## 📸 界面展示 / Screenshot
+
+> **游戏内“对局域网开放 / 多人游戏选项”配置界面**：  
+> *In-game LAN configuration menu: customizable port, offline + UUID fixer, player limits, one-click IP copy, and preference auto-saving.*
+
+<div align="center">
+  <img src="docs/images/lan_gui.png" alt="Lan Server Properties 26.2 GUI" width="85%" />
 </div>
 
 ---
